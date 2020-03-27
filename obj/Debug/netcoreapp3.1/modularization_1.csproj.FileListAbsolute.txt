@@ -1,0 +1,11 @@
+C:\Users\barabim\Documents\distance learning\PEII\modularization_1\bin\Debug\netcoreapp3.1\modularization_1.exe
+C:\Users\barabim\Documents\distance learning\PEII\modularization_1\bin\Debug\netcoreapp3.1\modularization_1.deps.json
+C:\Users\barabim\Documents\distance learning\PEII\modularization_1\bin\Debug\netcoreapp3.1\modularization_1.runtimeconfig.json
+C:\Users\barabim\Documents\distance learning\PEII\modularization_1\bin\Debug\netcoreapp3.1\modularization_1.runtimeconfig.dev.json
+C:\Users\barabim\Documents\distance learning\PEII\modularization_1\bin\Debug\netcoreapp3.1\modularization_1.dll
+C:\Users\barabim\Documents\distance learning\PEII\modularization_1\bin\Debug\netcoreapp3.1\modularization_1.pdb
+C:\Users\barabim\Documents\distance learning\PEII\modularization_1\obj\Debug\netcoreapp3.1\modularization_1.csprojAssemblyReference.cache
+C:\Users\barabim\Documents\distance learning\PEII\modularization_1\obj\Debug\netcoreapp3.1\modularization_1.AssemblyInfoInputs.cache
+C:\Users\barabim\Documents\distance learning\PEII\modularization_1\obj\Debug\netcoreapp3.1\modularization_1.AssemblyInfo.cs
+C:\Users\barabim\Documents\distance learning\PEII\modularization_1\obj\Debug\netcoreapp3.1\modularization_1.dll
+C:\Users\barabim\Documents\distance learning\PEII\modularization_1\obj\Debug\netcoreapp3.1\modularization_1.pdb
